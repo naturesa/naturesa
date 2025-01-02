@@ -2,7 +2,8 @@
 
 I've just finished a Full-Stack bootcamp at Code for All and I'm looking for new experiences as a Junior Developer.
 
-I've been working as a Senior Creative Artworker specialized in visual communication and brand design for over 20 years and now I'm looking forward to blend my artistic background with tech expertise. 
+I've been working as a Senior Creative Artworker specialized in visual communication and brand design for over 20 years 
+and now I'm looking forward to blend my artistic background with tech expertise. 
 I thrive in collaborative environments and am eager to create user-friendly applications that merge creativity with technology. 
 I look forward to exploring diverse opportunities!
 
