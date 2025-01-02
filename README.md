@@ -4,9 +4,10 @@ I've just finished a Full-Stack bootcamp at Code for All and I'm looking for new
 
 I've been working as a Senior Creative Artworker specialized in visual communication and brand design for over 20 years 
 and now I'm looking forward to blend my artistic background with tech expertise. 
-I thrive in collaborative environments and am eager to create user-friendly applications that merge creativity with technology. 
-I look forward to exploring diverse opportunities!
 
+I thrive in collaborative environments and am eager to create user-friendly applications that merge creativity with technology. 
+
+***
 
 ###  👩‍💻 Tech Stack:
 
@@ -21,6 +22,12 @@ I look forward to exploring diverse opportunities!
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-squar&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)
 
-### ⚡ Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-teresa-m-fernandes/)
+***
+
+### ⚡ Let's connect:
+
+Feel free to drop me some lines ana.teresa.f@gmail.com or connect on LinkedIn   <a href="https://www.linkedin.com/in/ana-teresa-m-fernandes/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="24" style="vertical-align:middle; margin-right:4px;"/> 
+</a>
+
