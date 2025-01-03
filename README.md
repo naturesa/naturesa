@@ -1,3 +1,7 @@
+![Coding Animation](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-freak.gif)
+
+
+ 
  ### Hi, I'm Ana Teresa 🌱
 
 I've just finished a Full-Stack bootcamp at Code for All and I'm looking for new experiences as a Junior Developer.
