@@ -4,7 +4,7 @@
  
  ### Hi, I'm Ana Teresa 🌱
 
-I've just finished a Full-Stack bootcamp at Code for All and I'm looking for new experiences as a Junior Developer.
+I'm an aspiring Junior Full-Stack Developer looking for new opportunities!!
 
 I've been working as a Senior Creative Artworker specialized in visual communication and brand design for over 20 years 
 and now I'm looking forward to blend my artistic background with tech expertise. 
