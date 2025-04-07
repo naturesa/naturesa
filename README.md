@@ -17,6 +17,7 @@ I thrive in collaborative environments and am eager to create user-friendly appl
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo=react&logoColor=black)](https://reactjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-squar&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo=spring&logoColor=white)](https://spring.io/)
@@ -25,6 +26,8 @@ I thrive in collaborative environments and am eager to create user-friendly appl
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-squar&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-squar&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-squar&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
 
 
 ***
